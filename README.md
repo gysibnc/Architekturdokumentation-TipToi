@@ -15,7 +15,12 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 *Use Case- Diagramm + Beschreibung*
 
 ## Qualitätsanforderungen
-*Beschreibung der wichtigsten Qualitätsanforderungen zB in Form von Qualitätsszenarien*
+-	Der Stift muss mittels der Software eine oder mehrere Audiodateien eindeutig einem Code zuweisen können. 
+-	Der Stift muss von einem Kind bedient werden können. 
+-	Der Stift muss der Handhabung eines Kindes standhalten. 
+-	Die codierte Hardware sollte robust genug für die Handhabung eines Kindes sein. 
+-	Die Codierung auf dem Papier darf nicht zu auffällig sein, jedoch auch noch vom Stift lesbar sein. 
+
 
 ## Randbedingungen
 *Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt* 
