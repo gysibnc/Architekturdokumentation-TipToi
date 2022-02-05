@@ -17,7 +17,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 ## Qualitätsanforderungen
 -	Der Stift muss mittels der Software eine oder mehrere Audiodateien eindeutig einem Code zuweisen können.
 -	verarbeiten können.
--	Die Software soll nicht Abstürzen.
+-	Die Software soll nicht abstürzen.
 -	Der Stift muss die verschiedenen Dateien voneinander unterscheiden können. 
 -	Der Stift muss von einem Kind bedient werden können. 
 -	Der Stift muss der Handhabung eines Kindes standhalten. 
