@@ -9,7 +9,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 # Kontextabgrenzung
 *Kontext-Diagramm und Beschreibung.*
-![Kontext_Diagramm_TipToi](Kontext_Diagramm_TipToi.png)
+![Kontext_Diagramm__TipToi](Kontext_Diagramm__TipToi.png)
 
 # Anforderungen
 ## Funktionale Anforderungen
