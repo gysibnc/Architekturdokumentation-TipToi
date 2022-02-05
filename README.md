@@ -13,6 +13,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 # Anforderungen
 ## Funktionale Anforderungen
 *Use Case- Diagramm + Beschreibung*
+![Use_Case_TipToi](Use_Case_TipToi.png)
 
 ## Qualitätsanforderungen
 -	Der Stift muss mittels der Software eine oder mehrere Audiodateien eindeutig einem Code zuweisen können.
