@@ -4,7 +4,7 @@
 <!--
 Diese Vorlage einer Architekturdokumentation ... ist eine vereinfachte und angepasste Version der Vorlage arc42[^1] sowie . 
 -->
-*Kurze Beschreibung der Ziele und Umfeld der Anwendung* 
+Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen können, die Möglichkeit geboten werden spielerisch dinge zu lernen. Dazu wird ein «Stift» mit einem Infrarotsensor an seiner Spitze und einem Lautsprecher am anderen Ende eingesetzt. Der Stift kann mit dem Infrarotsensor von einem Codierten Papier – Meist in Form eines Buches – die Informationen entnehmen, welche er benötigt, um mittels Software zu wissen welche Audiodatei er über den Lautsprecher ausgeben kann. Für das Kind ergibt dies einen «Ziele auf das Bild und erhalte eine Erklärung» Effekt. 
 
 
 # Kontextabgrenzung
