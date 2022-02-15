@@ -8,7 +8,11 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 
 # Kontextabgrenzung
-*Kontext-Diagramm und Beschreibung.*
+
+- Das System besteht aus 2 Teilen: Dem Tiptoi Stift und den codierten Seiten
+- Der Tiptoi Stift kann mit einem USB Kabel an den PC angeschlossen werden. Um neue Audiodateien zu installieren.
+- Die codierten Seiten werden durch den Infrarotsenor im TipToi Stift gelesen
+- Je nach Code wird die benötoigte Audiodatei abgespielt
 
 ![Kontext_Diagramm__TipToi](Kontext_Diagramm__TipToi.png)
 
@@ -31,6 +35,9 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 ## Randbedingungen
 *Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt* 
+- Da der Stift nicht unendlich Speicherkapatzität hat, sollte die Software nicht zu gross sein
+- Jede codierte Hardware muss einen eindeutigen Idenifizierungscode haben
+- Es muss beachtet werden, dass die Software mehrsprachig ist
 
 
 # Verteilungssicht
