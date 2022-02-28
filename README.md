@@ -13,8 +13,8 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Die codierten Seiten werden durch den Infrarotsenor im TipToi Stift gelesen
 - Je nach Code wird die benötoigte Audiodatei abgespielt
 
-![Kontext_Diagramm__TipToi](Kontext_Diagramm__TipToi_v.2.jpg)
-![Kontext_Diagramm__TipToi_2](Kontext_Diagramm__TipToi_v.3.jpg)
+![Kontext_Diagramm__TipToi](Kontext_Diagramm_TipToi_v.2.jpg)
+![Kontext_Diagramm__TipToi_2](Kontext_Diagramm_TipToi_v.3.jpg)
 
 # Anforderungen
 ## Funktionale Anforderungen
