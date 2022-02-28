@@ -23,7 +23,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Das Kind muss die im Buch vorhanden Codes scannen können
 - Die Eltern müssen die Batterien einsetzen können
 - Die Eltern müssen die Software bedienen können
-- Der TipToi Manager lädt die Software auf den Stift
+- Der TipToi Manager lädt die Software auf den Stift via USB Verbindung
 
 ![Use_Case_TipToi](Use_Case_TipToi.png)
 
