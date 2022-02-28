@@ -13,7 +13,8 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Die codierten Seiten werden durch den Infrarotsenor im TipToi Stift gelesen
 - Je nach Code wird die benötoigte Audiodatei abgespielt
 
-![Kontext_Diagramm__TipToi](Kontext_Diagramm__TipToi.png)
+![Kontext_Diagramm__TipToi](Kontext_Diagramm__TipToi_v.2.jpg)
+![Kontext_Diagramm__TipToi_2](Kontext_Diagramm__TipToi_v.3.jpg)
 
 # Anforderungen
 ## Funktionale Anforderungen
@@ -25,7 +26,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Die Eltern müssen die Software bedienen können
 - Der TipToi Manager lädt die Software auf den Stift via USB Verbindung
 
-![Use_Case_TipToi](Use_Case_TipToi.png)
+![Use_Case_TipToi](Use_Case_TipToi_v.2.jpg)
 
 ## Qualitätsanforderungen
 -	Der Stift muss mittels der Software eine oder mehrere Audiodateien eindeutig einem Code zuweisen können.
