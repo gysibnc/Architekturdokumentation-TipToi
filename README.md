@@ -40,7 +40,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 
 ## Randbedingungen
-*Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt* 
+<!-- *Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt* -->
 - Da der Stift nicht unendlich Speicherkapatzität hat, sollte die Software nicht zu gross sein
 - Jede codierte Hardware muss einen eindeutigen Idenifizierungscode haben
 - Es muss beachtet werden, dass die Software mehrsprachig ist
