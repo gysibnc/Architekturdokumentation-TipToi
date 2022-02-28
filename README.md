@@ -1,4 +1,4 @@
-**Architekturdokumentation der Software *Tiptoi***
+**Architekturdokumentation der Software *TipToi***
 
 # Einführung
 <!--
@@ -8,8 +8,8 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 # Kontextabgrenzung
 
-- Das System besteht aus 2 Teilen: Dem Tiptoi Stift und den codierten Seiten
-- Der Tiptoi Stift kann mit einem USB Kabel an den PC angeschlossen werden. Um neue Audiodateien zu installieren.
+- Das System besteht aus 2 Teilen: Dem TipToi Stift und den codierten Seiten
+- Der TipToi Stift kann mit einem USB Kabel an den PC angeschlossen werden. Um neue Audiodateien zu installieren.
 - Die codierten Seiten werden durch den Infrarotsenor im TipToi Stift gelesen
 - Je nach Code wird die benötoigte Audiodatei abgespielt
 
