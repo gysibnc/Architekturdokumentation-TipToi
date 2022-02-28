@@ -47,9 +47,13 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 # Verteilungssicht
 *Verteilungsdiagramm + Beschreibung*
+- Der Personal Computer wird per USB Schnittstelle mit dem Stift verbunden
+- Der TipToi Manager übergibt die Software dem TipToi Stift
+- Der TipToi Stift list den OID Code aus dem TipToi Produkt
+
 
 # Glossar
-
+OID Code - Oberfläche mit einem bedrucktes Punkteraster
 
 
 <!-- Dieser Abschnitt ist auskommentiert
