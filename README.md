@@ -56,8 +56,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 
 # Glossar
-OID Code - Oberfläche mit einem bedrucktem Punkteraster
-
+OID Code = (optical identification) - Oberfläche mit einem bedrucktem Punkteraster 
 
 <!-- Dieser Abschnitt ist auskommentiert
 [^1]: www.arc42.de
