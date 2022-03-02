@@ -54,7 +54,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Der TipToi Manager übergibt die Software dem TipToi Stift
 - Der TipToi Stift list den OID Code aus dem TipToi Produkt
 
-![Verteilungs_Diagramm__TipToi](Verteilung_Diagramm_TipToi.jpg)
+![Verteilungs_Diagramm__TipToi](Verteilungs_Diagramm_TipToi_v2.png)
 
 
 # Glossar
