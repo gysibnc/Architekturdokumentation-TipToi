@@ -28,6 +28,8 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 ![Use_Case_TipToi](Use_Case_TipToi_V3.png)
 
+![Use_Case_TipToi](Use_Case_TipToi_Manager.png)
+
 ## Qualitätsanforderungen
 -	Der Stift muss mittels der Software eine oder mehrere Audiodateien eindeutig einem Code zuweisen können.
 -	verarbeiten können.
