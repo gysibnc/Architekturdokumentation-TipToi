@@ -51,8 +51,8 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 # Verteilungssicht
 <!--*Verteilungsdiagramm + Beschreibung*-->
 - Der Personal Computer wird per USB Schnittstelle mit dem Stift verbunden
-- Der TipToi Manager übergibt die Software dem TipToi Stift
-- Der TipToi Stift list den OID Code aus dem TipToi Produkt
+- Der TipToi Manager holt die Audiofiles und Firmware Updates auf dem Ravensburger TipToi Server und übergibt diese dem TipToi Stift
+- Der TipToi Stift list den OID Code mittels Infrarot aus dem TipToi Produkt
 
 ![Verteilungs_Diagramm__TipToi](Verteilungs_Diagramm_TipToi_v2.png)
 
