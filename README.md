@@ -7,7 +7,7 @@ Diese Vorlage einer Architekturdokumentation ... ist eine vereinfachte und angep
 Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen können, die Möglichkeit geboten werden spielerisch dinge zu lernen. Dazu wird ein «Stift» mit einem Infrarotsensor an seiner Spitze und einem Lautsprecher am anderen Ende eingesetzt. Der Stift kann mit dem Infrarotsensor von einem codierten Papier die Informationen entnehmen, welche er benötigt, um mittels Software zu wissen welche Audiodatei er über den Lautsprecher ausgeben kann. Dies geschieht anhand eines bedrucktem Punkteraster (OID), welche es in jeglicher Form gibt. Beispielsweise als Buch, Puzzle, Figuren, GLobus, etc. Für das Kind ergibt dies einen «Ziele auf das Bild und erhalte eine Erklärung» Effekt. Die Oberfläche, welche ein bedrucktes Punkteraster (OID) hat, kann vom Infrarot-Scanner des tiptoi Stift ausgelesen werden.
 
 # Kontextabgrenzung 
-##TipToi Stift
+## TipToi Stift
 - Das System besteht aus 2 Teilen: Dem TipToi Stift und den codierten Seiten
 - Der TipToi Stift kann mit einem USB Kabel an den PC angeschlossen werden. Um neue Audiodateien zu installieren.
 - Die codierten Seiten werden durch den Infrarotsenor im TipToi Stift gelesen
@@ -18,13 +18,13 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 
 ![Kontext_Diagramm__TipToi](Kontext_Diagramm_TipToi_v.2.jpg)
 
-##TipToi Manager
+## TipToi Manager
 - Der Manager lädt Dateien vom Ravensburger TipToi Server
   - Firmwareupdates
   - Audiofiles
 - Der Manager kann durch einen Anwender Bsp. die Eltern bedient werden
 - Der TipToi Manager lädt die Dateien per USB auf den Stift
-- 
+
 ![Kontext_Diagramm__TipToi_2](Kontext_Diagramm_TipToi_v.3.jpg)
 
 # Anforderungen
