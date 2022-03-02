@@ -26,7 +26,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Die Eltern müssen die Software bedienen können
 - Der TipToi Manager lädt die Software auf den Stift via USB Verbindung
 
-![Use_Case_TipToi](Use_Case_TipToi_v.2.jpg)
+![Use_Case_TipToi](Use_Case_TipToi_v3.jpg)
 
 ## Qualitätsanforderungen
 -	Der Stift muss mittels der Software eine oder mehrere Audiodateien eindeutig einem Code zuweisen können.
