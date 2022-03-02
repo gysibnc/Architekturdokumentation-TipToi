@@ -16,7 +16,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Via TipToi Manager Software werden die Audiofiles aktualisiert
 - Die TipToi Manager Software aktualisiert die Firmware
 
-![Kontext_Diagramm__TipToi](Kontext_Diagramm_TipToi_v.2.jpg)
+![Kontext_Diagramm__TipToi_2](Kontext_Diagramm_TipToi_v.3.jpg)
 
 ## TipToi Manager
 - Der Manager lädt Dateien vom Ravensburger TipToi Server
@@ -25,7 +25,7 @@ Mit TipToi soll Kindern, unter anderem solche die noch nicht fliessend lesen kö
 - Der Manager kann durch einen Anwender Bsp. die Eltern bedient werden
 - Der TipToi Manager lädt die Dateien per USB auf den Stift
 
-![Kontext_Diagramm__TipToi_2](Kontext_Diagramm_TipToi_v.3.jpg)
+![Kontext_Diagramm__TipToi](Kontext_Diagramm_TipToi_v.2.jpg)
 
 # Anforderungen
 ## Funktionale Anforderungen TipToi-Stift
